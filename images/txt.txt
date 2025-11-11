@@ -1,0 +1,14 @@
+your-website-folder/
+├── index.html          (the modified code above)
+└── images/
+    ├── profile/
+    │   └── clinton.jpg  (your profile picture; replace with your actual file)
+    ├── clients/
+    │   ├── mrs-adebayo.jpg  (client photo for first testimonial)
+    │   ├── barr-johnson.jpg (client photo for second testimonial)
+    │   └── mr-thompson.jpg  (client photo for third testimonial)
+    └── projects/
+        ├── project1.jpg   (image for Greenfield Academy project)
+        ├── project2.jpg   (image for Justice & Co Law project)
+        ├── project3.jpg   (image for TechSkills Institute project)
+        └── project4.jpg   (image for Prime Finance Ltd project)
